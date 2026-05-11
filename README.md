@@ -68,7 +68,7 @@ I enjoy learning how infrastructure, security, and cloud platforms work together
 ## 📫 Reach Out
 
 - LinkedIn: www.linkedin.com/in/YOUR-LINK
-- Email: halimahfalak06@gmail.com
+- Email: falakhalimah@gmail.com
 
 ---
 
