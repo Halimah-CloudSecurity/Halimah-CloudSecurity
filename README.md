@@ -46,6 +46,7 @@ I enjoy learning how infrastructure, security, and cloud platforms work together
 ## Operating Systems:
 - Linux
 - Ubuntu
+- Kali Linux
 
 ## Programming:
 - Python, Java
